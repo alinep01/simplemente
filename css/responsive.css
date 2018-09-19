@@ -1,0 +1,101 @@
+
+
+/*===================================
+      BOOTSTRAP 3 MEDIA QUERIES
+====================================*/
+
+
+
+/* Large Devices (Desk e Laptop) */
+@media (min-width: 1200px) {
+	/*#home-heading h3 {
+		color: blue;
+	}*/
+}
+
+
+
+
+
+/* Large Devices (Landscape Tablet & Medium Destops) */
+@media (min-width: 992px) and (max-width: 1199px) {
+	/*#home-heading h3 {
+		color: yellow;
+	}*/
+	.navbar {
+		background: rgba(0,0,0, .7);
+	}
+	.nav-navbar {
+		float: left;
+	}
+
+}
+
+
+/* Small Devices (Portrait Tablets e Small Desktops) */
+@media (min-width: 768px) and (max-width: 991px) {
+	#home-heading h3 {
+		color: green;
+	}
+	.navbar {
+		background: rgba(0,0,0, .7);
+	}
+	.nav-navbar {
+		float: left;
+	}
+
+}
+
+
+
+
+/* Extra Small Devices (Landscape Phones e Portrair Tablets) */
+@media (max-width: 767px) {
+	/*#home-heading h3 {
+		color: orange;
+	}*/
+}
+
+
+
+
+
+/* Extra Small Devices (Smaller Devices) */
+@media (max-width: 480px) {
+	/*#home-heading h3 {
+		color: pink;
+	}*/
+}
+
+
+
+
+
+/* Extra Small Devices (Smaller Devices) */
+@media (max-width: 320px) {
+	/*#home-heading h3 {
+		color: purple;
+	}*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
