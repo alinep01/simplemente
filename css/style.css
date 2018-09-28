@@ -213,7 +213,10 @@ h3 {
 
 /* about */
 
-
+.img-about {
+	padding-left: 50px;
+	padding-right: 0px;
+}
 
 #about .classeschule {
 	padding-top: 5%;
