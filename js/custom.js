@@ -9,7 +9,7 @@ $(function() {
 
 $(function(){
   $("#team-members").owlCarousel({
-  	items: 3,
+  	items: 4,
   	autoplay: true,
   	smartSpeed: 700,
   	loop: true
@@ -63,7 +63,7 @@ $(function(){
 
 $(function(){
   $(window).scroll(function(){
-  	if($(this).scrollTop() < 550 ) {
+  	if($(this).scrollTop() < 250 ) {
   		//hide nav
   		$("nav").removeClass("vesco-top-nav");
   		$("#back-to-top").fadeOut();
